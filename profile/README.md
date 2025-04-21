@@ -19,10 +19,6 @@
 
 TerraLab3D is a cutting-edge rendering engine capable of visualizing the entire Earth from space to ground level with centimeter precision. The engine combines real-world geospatial data with advanced procedural algorithms to create realistic, detailed environments.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/From%20Space%20To%20Ground-blue?style=for-the-badge" alt="From Space To Ground" />
-</p>
-
 ## ✨ Key Features
 
 - **Global Scale Rendering**: Seamless zoom from orbit to ground level
