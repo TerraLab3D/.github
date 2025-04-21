@@ -1,13 +1,6 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/TerraLab3D-Global%20Scale%20Engine-blue?style=for-the-badge&logo=earth&logoColor=white" alt="TerraLab3D" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="Status" />
-  <img src="https://img.shields.io/badge/Language-C++-blue" alt="Language" />
-  <img src="https://img.shields.io/badge/License-Proprietary-red" alt="License" />
-  <img src="https://img.shields.io/badge/Precision-Centimeter-success" alt="Precision" />
-</p>
+
+
 
 <p align="center">
   <a href="https://youtube.com/@terralab3d"><img src="https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo" /></a>
@@ -18,6 +11,13 @@
 ### Global-scale procedural planetary engine with real-world data and centimeter precision
 
 TerraLab3D is a cutting-edge rendering engine capable of visualizing the entire Earth from space to ground level with centimeter precision. The engine combines real-world geospatial data with advanced procedural algorithms to create realistic, detailed environments.
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="Status" />
+  <img src="https://img.shields.io/badge/Language-C++-blue" alt="Language" />
+  <img src="https://img.shields.io/badge/Precision-Centimeter-success" alt="Precision" />
+</p>
 
 ## ✨ Key Features
 
